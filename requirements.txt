@@ -1,0 +1,10 @@
+numpy
+panadas
+bs4
+requests
+pycricbuzz
+tk
+flask
+opencv-python
+streamlit
+scikit-learn
